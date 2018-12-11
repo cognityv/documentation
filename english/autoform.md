@@ -319,3 +319,32 @@ In the parameters you can input the parameters in an array like on the top level
 **nexttitle**: title for next button
 
 **previoustitle**: title for previous button
+
+## List
+
+~~~~
+{
+  "list": {
+    "icon": "",
+    "iconBackgroundColor": "",
+    "rowBackgroundColor": "",
+    "title": "",
+    "subtitle": "",
+    "firstrow": [
+      {
+        "key": "todo"
+      },
+      {
+        "icon": ""
+      },
+      {
+        "type": "spacer"
+      }
+    ],
+    "secondrow": []
+  }
+}
+~~~~
+
+
+
